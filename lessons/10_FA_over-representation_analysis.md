@@ -1,7 +1,7 @@
 ---
 title: "Functional Analysis for RNA-seq"
-author: "Mary Piper, Radhika Khetani, Meeta Mistry, Jihe Liu, Will Gammerdinger"
-date: "Monday, September 12th, 2022"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 120 minutes

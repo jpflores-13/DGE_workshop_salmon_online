@@ -1,7 +1,7 @@
 ---
 title: "Summary of DGE workflow"
-author: "Mary Piper"
-date: "June 8, 2017"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 15 minutes

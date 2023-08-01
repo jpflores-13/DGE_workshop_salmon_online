@@ -1,7 +1,7 @@
 ---
 title: "Exploring DESeq2 results: Wald test"
-author: "Meeta Mistry, Radhika Khetani, Mary Piper"
-date: "June 1, 2020"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 60 minutes

@@ -1,7 +1,7 @@
 ---
 title: "Functional Analysis for RNA-seq"
-author: "Mary Piper"
-date: "Tuesday, March 20th, 2018"
+author: "JP Flores"
+date: "August 15, 2022"
 ---
 
 Approximate time: 120 minutes

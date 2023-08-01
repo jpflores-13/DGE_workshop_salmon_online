@@ -1,7 +1,7 @@
 ---
 title: "Time course analysis with DESeq2"
-author: "Meeta Mistry and Mary Piper"
-date: "June 17, 2020"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 20 minutes

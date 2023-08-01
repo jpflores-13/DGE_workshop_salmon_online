@@ -1,7 +1,7 @@
 ---
 title: "Differential expression of transcripts using Sleuth"
-author: "Mary Piper"
-date: "Tuesday, April 10th, 2018"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 1.5 hours

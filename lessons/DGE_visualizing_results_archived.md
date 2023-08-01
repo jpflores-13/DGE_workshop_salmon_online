@@ -1,7 +1,7 @@
 ---
 title: "DEG visualization of results"
-author: "Meeta Mistry"
-date: "October 17, 2016"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 75 minutes

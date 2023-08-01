@@ -1,7 +1,7 @@
 ---
 title: "Count normalization with DESeq2"
-author: "Meeta Mistry, Radhika Khetani, Mary Piper, Jihe Liu"
-date: "May 20, 2020"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 ***

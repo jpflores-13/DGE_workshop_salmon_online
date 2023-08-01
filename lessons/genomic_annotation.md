@@ -1,7 +1,7 @@
 ---
 title: "Genomic annotations"
-author: "Mary Piper"
-date: "Monday, March 4th, 2019"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 30 minutes

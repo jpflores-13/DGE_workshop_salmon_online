@@ -1,7 +1,7 @@
 ---
 title: "Set up and overview for gene-level differential expression analysis"
-author: "Meeta Mistry, Radhika Khetani, Mary Piper"
-date: "May 12, 2017"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 [GEO]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51443 "Gene Expression Omnibus"

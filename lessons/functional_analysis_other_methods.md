@@ -1,7 +1,7 @@
 ---
 title: "Other Functional Analysis Methods for RNA-seq - gProfileR"
-author: "Mary Piper"
-date: "Tuesday, October 10th, 2017"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 ## gProfileR

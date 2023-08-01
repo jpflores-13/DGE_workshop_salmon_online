@@ -1,7 +1,7 @@
 ---
 title: "Experimental design considerations"
-author: "Mary Piper, Meeta Mistry, Radhika Khetani"
-date: "Thursday, June 20, 2019"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 50 minutes

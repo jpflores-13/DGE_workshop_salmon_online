@@ -1,7 +1,7 @@
 ---
 title: "Functional Analysis for RNA-seq"
-author: "Mary Piper, Radhika Khetani"
-date: "Wednesday, June 3rd, 2020"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 40 minutes

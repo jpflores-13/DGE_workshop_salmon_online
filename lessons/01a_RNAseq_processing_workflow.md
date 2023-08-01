@@ -1,7 +1,7 @@
 ---
 title: "From raw sequence reads to count matrix"
-author: "Meeta Mistry, Radhika Khetani, Mary Piper"
-date: "June 9, 2020"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 40 minutes

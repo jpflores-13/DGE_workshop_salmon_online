@@ -1,7 +1,7 @@
 ---
 title: "DGE analysis using LRT in DESeq2"
-author: "Meeta Mistry and Mary Piper"
-date: "June 14, 2017"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 60 minutes

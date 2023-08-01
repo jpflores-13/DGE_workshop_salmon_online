@@ -1,7 +1,7 @@
 ---
 title: "Advanced visualizations"
-author: "Meeta Mistry, Mary Piper, Radhika Khetani"
-date: "December 4th, 2019"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 Approximate time: 75 minutes

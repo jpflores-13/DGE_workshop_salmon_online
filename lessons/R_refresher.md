@@ -1,6 +1,7 @@
 ---
 title: "R refresher"
-author: "Meeta Mistry, Radhika Khetani, Mary Piper, Jihe Liu"
+author: "JP Flores"
+date: "August 15, 2022"
 ---
 
 Approximate time: 45 minutes

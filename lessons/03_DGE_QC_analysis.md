@@ -1,7 +1,7 @@
 ---
 title: "QC methods for DE analysis using DESeq2"
-author: "Meeta Mistry, Radhika Khetani, Mary Piper"
-date: "October 18, 2019"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 ***

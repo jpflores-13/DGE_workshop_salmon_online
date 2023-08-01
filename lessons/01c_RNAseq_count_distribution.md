@@ -1,7 +1,7 @@
 ---
 title: "Gene-level differential expression analysis"
-author: "Meeta Mistry, Radhika Khetani, Mary Piper"
-date: "May 15, 2020"
+author: "JP Flores, Marielle Bond"
+date: "August 1, 2023"
 ---
 
 ***
